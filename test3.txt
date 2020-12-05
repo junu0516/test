@@ -1,2 +1,3 @@
 original status in test3.txt 
 change on branch_1 applied
+new  change applied
